@@ -1,0 +1,5 @@
+path: '/content/drive/MyDrive/Datasets/license-plates'
+train: images/train
+val: images/val
+names:
+    0: license_plate
